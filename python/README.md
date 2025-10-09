@@ -1,5 +1,5 @@
 <h1>Python un buen comienzo</h1>
-<h2>Como es bien conocido python es un gran lenguaje para empezar es practico, sencillo y con muchisimo contenido que esta constantemente usado en este lenguaje</h2>
+<h3>Como es bien conocido python es un gran lenguaje para empezar es practico, sencillo y con muchisimo contenido que esta constantemente usado en este lenguaje</h3>
 
 Si bien quiero enseñar un poco de los lenguajes de programación es dificil empezar en esto, lo se porque yo lo viví en la universidad pero...
 no es algo de predecir el siguiente paso es mas de la <b>Constancia</b> la cual te va a permitir poco a poco saber como programar ya que este mundo
@@ -16,4 +16,13 @@ Uff Visual Studio Code donde empece a programar y pronto ustedes si es que lo qu
 pero con VS esta bien es multiproposito, customizable y muy conocido hecho por Microsoft https://code.visualstudio.com --> Este es el link para poder instalarlo dentro de el usaremos las recomendaciones
 de instalacion si quieres usar alguna distinta adelante. y dentro de la misma sigue el Get Started para hacerlo a tu gusto despues te vas a la izquierda en extensiones son 4 cuadrados con uno volteado,
 tienes que buscar phyton por Microsoft y lo instalas, luego en tu navegador buscas python y en el boton amarillo le das clic para instalar, puedes instalar con las recomendaciones pero es mejor
-dar en la casilla de PATH y Administrador, para no tener problemas con eso listo podemos empezar a hacer codigo
+dar en la casilla de PATH y Administrador, para no tener problemas con eso listo podemos empezar a hacer codigo.
+
+<h1>
+  Mi primer !hola mundo¡
+</h1>
+Es muy comun esto el usar como primera base, tenemos que aprender algunas bases si queremos hacer algo funcional o aprender como funcionan ciertas cosas como los frameworks o algunos programas, entonces si queremos llegar a tener un poco de conocmiento como poder desarrollar una calculadora basica tenemos que hacernos algunas preguntas para responder esto en este caso ¿Cuales son los componentes que conforman una calculadora? el primero sería una pantalla donde podemos ver lo que ingresamos y el resultado.
+Entonces tenemos el principal requisito, proyectar lo que vemos.
+
+Para eso tenemos el "print()" esta función sirve para imprimir en pantalla lo que queremos hacer para ello puede ver el codigo de python "Parte1.1PythonMiPrimerHolaMundo"
+como recomendación deberías de hacer algunas practicas como imprimir tu nombre realizar una suma, división, variable y tu nombre o algun dato. para poder reproducir el codigo usa: <img width="170" height="33" alt="{9F15A276-439F-4317-8D2E-498A5C5B60D1}" src="https://github.com/user-attachments/assets/53d14d58-99ca-41af-8e49-2181f7937656" /> el boton de play sirve para correr codigo en la terminal
