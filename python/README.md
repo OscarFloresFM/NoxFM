@@ -25,11 +25,11 @@ Es muy comun esto el usar como primera base, tenemos que aprender algunas bases 
 Entonces tenemos el principal requisito, proyectar lo que vemos.
 
 Para eso tenemos el "print()" esta función sirve para imprimir en pantalla lo que queremos hacer para ello puede ver el codigo de python "Parte1.1PythonMiPrimerHolaMundo"
-como recomendación deberías de hacer algunas practicas como imprimir tu nombre realizar una suma, división, variable y tu nombre o algun dato. para poder reproducir el codigo usa: \n 
+como recomendación deberías de hacer algunas practicas como imprimir tu nombre realizar una suma, división, variable y tu nombre o algun dato. para poder reproducir el codigo usa:
 <img width="170" height="33" alt="{9F15A276-439F-4317-8D2E-498A5C5B60D1}" src="https://github.com/user-attachments/assets/53d14d58-99ca-41af-8e49-2181f7937656" /> 
 El boton de play sirve para correr codigo en la terminal se encuentra posicionado en la parte superior del archivo de python pero como creamos un archivo python facil:
-<img width="2557" height="1119" alt="{CED31962-1291-49AA-A6F3-82D9B2AD598D}" src="https://github.com/user-attachments/assets/0e5005ec-7d25-4d1d-afb5-789974de5284" />\n
-Tenemos una GUI con distintas cosas para usar usaremos el explorador <img width="49" height="52" alt="{3B487FAE-CEC5-4961-ADD4-A22C560281D4}" src="https://github.com/user-attachments/assets/5f063a19-1330-46c0-a0db-6c6d3b5967dd" /> y usaremos File > Open Folder y escogeremos el folder que deseamos usar para guardar nuestros codigos siempre evitando usar caracteres especiales o espacios en los folders y archivos\n
-Tenemos que crear nuestro primer archivo dentro del explorer en el texto con el nombre de la carpeta donde guardaremos nuestros proyectos le daremos clic a: \n
-<img width="294" height="28" alt="{DF8187C0-428D-45FA-9A8F-8633A74C8DD8}" src="https://github.com/user-attachments/assets/9150cb49-483a-4545-9a81-764758f3c434" /> \n
+<img width="2557" height="1119" alt="{CED31962-1291-49AA-A6F3-82D9B2AD598D}" src="https://github.com/user-attachments/assets/0e5005ec-7d25-4d1d-afb5-789974de5284" />
+Tenemos una GUI con distintas cosas para usar usaremos el explorador <img width="49" height="52" alt="{3B487FAE-CEC5-4961-ADD4-A22C560281D4}" src="https://github.com/user-attachments/assets/5f063a19-1330-46c0-a0db-6c6d3b5967dd" /> y usaremos File > Open Folder y escogeremos el folder que deseamos usar para guardar nuestros codigos siempre evitando usar caracteres especiales o espacios en los folders y archivos
+Tenemos que crear nuestro primer archivo dentro del explorer en el texto con el nombre de la carpeta donde guardaremos nuestros proyectos le daremos clic a:
+<img width="294" height="28" alt="{DF8187C0-428D-45FA-9A8F-8633A74C8DD8}" src="https://github.com/user-attachments/assets/9150cb49-483a-4545-9a81-764758f3c434" />
 El documento justo se creara un cuadro de texto donde colocaremos "NombreDelArchivo".py esto creara un archivo .py que es un archivo python el cual podremos usar para crear nuestro software.
