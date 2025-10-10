@@ -24,7 +24,7 @@ dar en la casilla de PATH y Administrador, para no tener problemas con eso listo
 Es muy comun esto el usar como primera base, tenemos que aprender algunas bases si queremos hacer algo funcional o aprender como funcionan ciertas cosas como los frameworks o algunos programas, entonces si queremos llegar a tener un poco de conocmiento como poder desarrollar una calculadora basica tenemos que hacernos algunas preguntas para responder esto en este caso ¿Cuales son los componentes que conforman una calculadora? el primero sería una pantalla donde podemos ver lo que ingresamos y el resultado.
 Entonces tenemos el principal requisito, proyectar lo que vemos.
 
-Para eso tenemos el "print()" esta función sirve para imprimir en pantalla lo que queremos hacer para ello puede ver el codigo de python "Parte1.1PythonMiPrimerHolaMundo"
+Para eso tenemos el "print()" esta función sirve para imprimir en pantalla lo que queremos hacer para ello puede ver el codigo de python "01_Primer_Print.py"
 como recomendación deberías de hacer algunas practicas como imprimir tu nombre realizar una suma, división, variable y tu nombre o algun dato. para poder reproducir el codigo usa:
 <img width="170" height="33" alt="{9F15A276-439F-4317-8D2E-498A5C5B60D1}" src="https://github.com/user-attachments/assets/53d14d58-99ca-41af-8e49-2181f7937656" /> 
 El boton de play sirve para correr codigo en la terminal se encuentra posicionado en la parte superior del archivo de python pero como creamos un archivo python facil:
@@ -33,3 +33,22 @@ Tenemos una GUI con distintas cosas para usar usaremos el explorador <img width=
 Tenemos que crear nuestro primer archivo dentro del explorer en el texto con el nombre de la carpeta donde guardaremos nuestros proyectos le daremos clic a:
 <img width="294" height="28" alt="{DF8187C0-428D-45FA-9A8F-8633A74C8DD8}" src="https://github.com/user-attachments/assets/9150cb49-483a-4545-9a81-764758f3c434" />
 El documento justo se creara un cuadro de texto donde colocaremos "NombreDelArchivo".py esto creara un archivo .py que es un archivo python el cual podremos usar para crear nuestro software.
+
+<h1>
+  Mi primer saludo!
+</h1>
+Ahora viene algo interesante, la calculadora no solo muestra el resultado, si no, también logra guardar los datos de entrada, entonces ¿Como capturamos información y los guardamos en python? facíl.
+Primero tienes que conocer 2 cosas.
+<h3>
+  Variables y Constantes
+</h3>
+Estos datos son muy importantes, son objetos que permiten almacenar un valor dentro de las mismas las <b>Variables</b> guardan datos que cambian constantemente y las <b>Constantes</b> almacenan un valor que permanece igual a lo largo del tiempo. Dentro de ambas existen distintas maneras de almacenarce de momento solo seran 5: Int, float, char, string, boolean.
+Este tipo de "etiqueta" permite guardar datos dentro de el programa que sean especificos si quieres que solo se ocupen enteros, caracteres, verdadero o falso, etc.
+<h3>
+  input()
+</h3>
+Muy bien esta <b>Función</b> permite "capturar" un dato de entrada en si misma, para despues guardarla en una variable, puede usar distintas cosas pero en este caso sera la entrada del teclado, aunque se puede usar tambien para obtener ciertas cosas como la posición de tu raton.
+Las funciones son importantes permiten realizar diversas operaciones dentro de una sola palabra por ejemplo input la cual puede ser modificada o usada dentro de otra función como print ejemplo claro sería:
+print(input())
+Que es una impresion de la entrada del input
+Para poder tener alguna idea que se puede hacer para la calculadora descargue "02_Primer_Input.py"
