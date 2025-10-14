@@ -52,3 +52,15 @@ Las funciones son importantes permiten realizar diversas operaciones dentro de u
 print(input())
 Que es una impresion de la entrada del input
 Para poder tener alguna idea que se puede hacer para la calculadora descargue "02_Primer_Input.py"
+<h3>
+  Primer calculadora
+</h3>
+Felicidades ahora tienes los conocimientos basicos para hacer una calculadora desde la terminal de VScode asi que comencemos primero con ciertas cosas que uno requiere tener al momento de hacer algun codigo existen algo llamado buenas practicas esto se refiere a la manera de documentar el código y la estructura del mismo, si bien, uno puede hacer el programa como uno le guste es verdad que si debe de llevar un formato para evitar problemas al modificar el codigo o saber que hace cada parte para poder saber que se tiene que modificar en especifico asi que cuales son esa practicas que nesecitamos bueno son las siguientes:
+
+1.- Las variables deben de tener un nombre simple y sin una estructura dificil de entender, un ejemplo sería declarar una variable como la gravedad de la tierra, donde g = 9.81 mt/s2, entonces podemos nombrar nuestra variable como "g" o "gravedad" en casos donde se utilicen muchas variables podemos usar tecnicas de como declarar las variables en este caso a mi me gusta hacerlo en PascalCase pero existe camelCase o Snake_Case y muchas otras pero cada quien escoge la que uno quiere
+2.- Añadir comentarios para añadir comentarios muchos lenguajes utilizan las // o # para declara que esa linea no debe de tomarse encuenta al ejecutar el código. En estos comentarios siempre se añaden al principio para declarar el autor del código y en ciertas partes para describir el como funcionan las funciones dentro del programa así como su nombre lo dice comentarios hacerca de ciertas lineas que requieren atención.
+3.- Jerarquía del código, si bien estamos programando en el segundo lenguaje mas facil de aprender en todos los lenguajes uno requiere llevar la jerarquia del código la cual en especifico son la manera en la cual se agrupa el codigo la cual es la siguiente
+Comentario Principal -> Importaciones -> Constantes y Variables -> Funcion Principal -> Funcion Secundaria
+*Las importaciones y exportaciones se veran mas adelante.
+
+
