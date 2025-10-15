@@ -53,9 +53,9 @@ print(input())
 Que es una impresion de la entrada del input
 Para poder tener alguna idea que se puede hacer para la calculadora descargue "02_Primer_Input.py"
 <h3>
-  Primer calculadora
+  Primer sumador
 </h3>
-Felicidades ahora tienes los conocimientos basicos para hacer una calculadora desde la terminal de VScode asi que comencemos primero con ciertas cosas que uno requiere tener al momento de hacer algun codigo existen algo llamado buenas practicas esto se refiere a la manera de documentar el código y la estructura del mismo, si bien, uno puede hacer el programa como uno le guste es verdad que si debe de llevar un formato para evitar problemas al modificar el codigo o saber que hace cada parte para poder saber que se tiene que modificar en especifico asi que cuales son esa practicas que nesecitamos bueno son las siguientes:
+Felicidades ahora tienes los conocimientos basicos para hacer una función desde la terminal de VScode asi que comencemos primero con ciertas cosas que uno requiere tener al momento de hacer algun codigo existen algo llamado buenas practicas esto se refiere a la manera de documentar el código y la estructura del mismo, si bien, uno puede hacer el programa como uno le guste es verdad que si debe de llevar un formato para evitar problemas al modificar el codigo o saber que hace cada parte para poder saber que se tiene que modificar en especifico asi que cuales son esa practicas que nesecitamos bueno son las siguientes:
 
 1.- Las variables deben de tener un nombre simple y sin una estructura dificil de entender, un ejemplo sería declarar una variable como la gravedad de la tierra, donde g = 9.81 mt/s2, entonces podemos nombrar nuestra variable como "g" o "gravedad" en casos donde se utilicen muchas variables podemos usar tecnicas de como declarar las variables en este caso a mi me gusta hacerlo en PascalCase pero existe camelCase o Snake_Case y muchas otras pero cada quien escoge la que uno quiere
 2.- Añadir comentarios para añadir comentarios muchos lenguajes utilizan las // o # para declara que esa linea no debe de tomarse encuenta al ejecutar el código. En estos comentarios siempre se añaden al principio para declarar el autor del código y en ciertas partes para describir el como funcionan las funciones dentro del programa así como su nombre lo dice comentarios hacerca de ciertas lineas que requieren atención.
@@ -63,4 +63,16 @@ Felicidades ahora tienes los conocimientos basicos para hacer una calculadora de
 Comentario Principal -> Importaciones -> Constantes y Variables -> Funcion Principal -> Funcion Secundaria
 *Las importaciones y exportaciones se veran mas adelante.
 
+Ahora como se hace una suma bueno si viste lo anterior podemos hacerlo como función o directamente insertar casi todo en un print, pero en este caso empezaremos suave para despues avanzar a algo mas dificil como las condicionales y loops. para ver como se hace la suma checa 03_Primer_Funcion
 
+<h3>
+  Estructuras de control
+</h3>
+
+Muy bien toca pasar a la mayor parte de codigo que se encuentra en todos lados, Las estructuras de control las cuales tienen distintos operadores como if,for,while,switch,case,etc.
+Pero en este caso comenzaremos con el if es una funcion la cual ejecuta ciertas lineas bajo una condicion. su estructura es la siguiente
+if(condicion)
+{
+Funcion
+}
+Esto nos permitira hacer un selector mas adelante sera recomendable el uso de switch
