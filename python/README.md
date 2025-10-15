@@ -76,3 +76,10 @@ if(condicion)
 Funcion
 }
 Esto nos permitira hacer un selector mas adelante sera recomendable el uso de switch
+
+Ahora para las repetitivas son aquellas que estan en bucle como lo son el while o for los cuales tienen distintas condiciones como while se ejecutara constantemente hasta que x condicion deje de ser cierta este seguira ejecutandoce igual con el for sin embargo este tiene "Un Tiempo de vida" que es mas o menos decir que se repite ciertas veces y despues se detiene.
+
+<h3>
+  Condicionales
+</h3>
+Esto lo explico rapido son "<" mayor que y ">" menorque tambien existen menor o igual y mayor o igual que solo se añade el "=" y para el igual "==" y el distinto que "!=", existen otras pero estas son las que estaremos usando para este caso de la calculadora
