@@ -83,3 +83,9 @@ Ahora para las repetitivas son aquellas que estan en bucle como lo son el while 
   Condicionales
 </h3>
 Esto lo explico rapido son "<" mayor que y ">" menorque tambien existen menor o igual y mayor o igual que solo se añade el "=" y para el igual "==" y el distinto que "!=", existen otras pero estas son las que estaremos usando para este caso de la calculadora
+
+<h3>
+  Calculadora
+</h3>
+Si bien todo esto nos permite crear una calculadora esta claculadora es basica a difencia de la calculadora de tu computadora esta nunca la usarias tenemos que seguir avanzando y crear una aplicación
+Para ver la primer calculadora es 04_Test_Calculadora
