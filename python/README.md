@@ -59,6 +59,7 @@ Constantes: guardan valores fijos.
 
 Los tipos más comunes son:
 int, float, char, string, y boolean.
+
 🔹 input()
 
 La función input() nos permite recibir datos del teclado.
