@@ -66,7 +66,7 @@ La función input() nos permite recibir datos del teclado.
 Por ejemplo:
 
 <pre>
-    ```python 
+    ```python
     print(input("Escribe tu nombre: "))
     ```
 </pre>
