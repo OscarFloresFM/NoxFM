@@ -65,8 +65,12 @@ int, float, char, string, y boolean.
 La función input() nos permite recibir datos del teclado.
 Por ejemplo:
 
-print(input("Escribe tu nombre: "))
-
+<pre>
+    ```python 
+    print(input("Escribe tu nombre: "))
+    ```
+</pre>
+    
 Esto mostrará lo que el usuario escriba.
 Puedes ver un ejemplo en 02_Primer_Input.py.
 
@@ -76,8 +80,11 @@ Ahora que ya conoces las bases, es momento de crear nuestra primera función sim
 Pero antes, hablemos de algo muy importante: las buenas prácticas.
 
 Nombres claros: usa nombres simples y descriptivos para tus variables.
-Ejemplo: gravedad = 9.81
 
+<pre>
+    Ejemplo: gravedad = 9.81
+</pre>
+    
 Comentarios: usa # para anotar ideas, explicaciones o recordatorios.
 
 Estructura: sigue un orden lógico en tu código:
@@ -104,8 +111,12 @@ Bucles (for, while) → repiten una acción hasta que se cumpla cierta regla.
 
 Ejemplo:
 
-if x > 0:
-    print("El número es positivo")
+<pre>
+    ```python
+    if x > 0:
+        print("El número es positivo")
+    ```
+</pre>
 
 
 Y los operadores más comunes son:
