@@ -1,4 +1,4 @@
-🐍 Python: un buen comienzo
+<h1>🐍 Python: un buen comienzo</h1>
 
 Python es, sin duda, uno de los mejores lenguajes para empezar a programar.
 Es práctico, sencillo y tiene una enorme comunidad con toneladas de contenido que puedes consultar cuando te atoras en algo.
@@ -13,7 +13,7 @@ Pero para llegar ahí, primero hay que entender las bases.
 
 Y por eso empezamos aquí, con Python.
 
-💻 Preparando el entorno
+<h2>💻 Preparando el entorno</h2>
 
 Vamos a trabajar con Visual Studio Code (VS Code), que fue el primer entorno donde empecé a programar (y el que más recomiendo).
 Es versátil, liviano, fácil de personalizar y muy conocido.
@@ -25,7 +25,7 @@ Luego, ve al sitio oficial de Python 👉 https://www.python.org
 Descarga la versión más reciente, marca las casillas “Add to PATH” y “Run as administrator”, e instálalo normalmente.
 Con eso ya tendrás todo listo para escribir tu primer código.
 
-👋 Mi primer “¡Hola Mundo!”
+<h2>👋 Mi primer “¡Hola Mundo!”</h2>
 
 El clásico de los clásicos.
 Antes de hacer proyectos más grandes, hay que entender las bases.
@@ -44,7 +44,7 @@ Probar con variables.
 Para ejecutar tu código en VS Code, abre el archivo .py y presiona el botón de ▶ (Play) en la parte superior.
 Así verás los resultados directamente en la terminal.
 
-🗣️ Mi primer saludo
+<h2>🗣️ Mi primer saludo</h2>
 
 Una calculadora no solo muestra el resultado, también recibe datos.
 Y para eso necesitamos aprender a capturar información.
@@ -70,7 +70,7 @@ print(input("Escribe tu nombre: "))
 Esto mostrará lo que el usuario escriba.
 Puedes ver un ejemplo en 02_Primer_Input.py.
 
-➕ Mi primer sumador
+<h2>➕ Mi primer sumador</h2>
 
 Ahora que ya conoces las bases, es momento de crear nuestra primera función simple.
 Pero antes, hablemos de algo muy importante: las buenas prácticas.
@@ -94,7 +94,7 @@ Funciones secundarias
 
 Con eso en mente, revisa el archivo 03_Primer_Funcion.py, donde aprenderás cómo realizar una suma básica paso a paso.
 
-🔄 Estructuras de control
+<h2>🔄 Estructuras de control</h2>
 
 Aquí empieza lo divertido: las estructuras de control, que son la base de toda lógica en programación.
 
@@ -113,14 +113,14 @@ Y los operadores más comunes son:
 
 Puedes encontrar ejemplos en los siguientes archivos para practicar.
 
-🧮 Mi primera calculadora
+<h2>🧮 Mi primera calculadora</h2>
 
 Con todo lo anterior ya tienes lo necesario para crear tu primera calculadora básica.
 No será tan avanzada como la del sistema operativo, pero es el primer paso para entender cómo funcionan los programas reales.
 
 Dale un vistazo al archivo 04_Test_Calculadora.py, donde juntamos todo lo aprendido: entrada de datos, operaciones y salida de resultados.
 
-🚀 Conclusión
+<h2>🚀 Conclusión</h2>
 
 Y así comenzamos este viaje con Python.
 No te preocupes si algo se te complica al principio; todos pasamos por eso.
@@ -128,5 +128,3 @@ La clave es practicar, equivocarte y volver a intentarlo.
 Con el tiempo, el código deja de parecer extraño y empieza a tener sentido.
 
 ¡Sigue adelante, y recuerda que cada línea escrita te acerca a ser mejor programador! 💪
-
-¿Quieres que te ayude a hacer una versión visualmente más atractiva con emojis, divisores y formato Markdown avanzado (por ejemplo, cajas de código, citas o secciones de nota)? Puedo adaptarlo a un estilo más moderno tipo “guía de aprendizaje interactiva” para GitHub.
