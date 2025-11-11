@@ -19,6 +19,7 @@ Vamos a trabajar con Visual Studio Code (VS Code), que fue el primer entorno don
 Es versátil, liviano, fácil de personalizar y muy conocido.
 Puedes descargarlo desde 👉 https://code.visualstudio.com
 
+
 Una vez instalado, abre la pestaña de extensiones (el ícono de cuatro cuadritos) y busca “Python” por Microsoft. Instálala.
 Luego, ve al sitio oficial de Python 👉 https://www.python.org
 
@@ -66,9 +67,9 @@ La función input() nos permite recibir datos del teclado.
 Por ejemplo:
 
 <pre>
-    ```python
+    
     print(input("Escribe tu nombre: "))
-    ```
+    
 </pre>
     
 Esto mostrará lo que el usuario escriba.
@@ -112,10 +113,10 @@ Bucles (for, while) → repiten una acción hasta que se cumpla cierta regla.
 Ejemplo:
 
 <pre>
-    ```python
+    
     if x > 0:
         print("El número es positivo")
-    ```
+    
 </pre>
 
 
